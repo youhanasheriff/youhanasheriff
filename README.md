@@ -1,14 +1,14 @@
 <p align="center">
   <a href="https://github.com/youhanasheriff">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=880085&center=true&width=435&lines=Youhana+Sheriff" alt="Youhana Sheriff" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=638E5F&center=true&width=435&lines=Youhana+Sheriff" alt="Youhana Sheriff" />
   </a>
 </p>
 <p align="center">
 <!--  https://git.io/typing-svg  -->
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=880085&center=true&width=435&lines=I'm+a+self+taught+developer.;Front-end+mobile+and+web+Engineer.;I+love+exploring+new+things.;I+enjoy+solving+problems.;I+am+keen+on+learning+new+tech.;I+thrive+in+a+collaborative+environment." alt="I'm a self taught Front-End Engineer(mobile and web).I love exploring new things.I enjoy solving problems.I am keen on learning new tech.I thrive in a collaborative environment." />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=638E5F&center=true&width=435&lines=I'm+a+self+taught+developer.;Front-end+mobile+and+web+Engineer.;I+love+exploring+new+things.;I+enjoy+solving+problems.;I+am+keen+on+learning+new+tech.;I+thrive+in+a+collaborative+environment." alt="I'm a self taught Front-End Engineer(mobile and web).I love exploring new things.I enjoy solving problems.I am keen on learning new tech.I thrive in a collaborative environment." />
 </p>
 
-![Programmer](https://user-images.githubusercontent.com/95082903/205471779-95120e09-6bf8-4fc7-a3d8-faa696daa89e.png)
+![Programmer](./assets/main-gif.gif)
 
 ## 🌐 Connect with me on:
 
@@ -20,9 +20,9 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=youhanasheriff&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youhanasheriff&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=880085&ring=880085&currStreakNum=4EC251&sideNums=880085&currStreakLabel=880085&sideLabels=880085&dates=FFD700&fire=FFD700)](https://git.io/streak-stats)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=youhanasheriff&theme=synthwave&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=youhanasheriff&theme=merko&hide_border=false&include_all_commits=false&count_private=true)<br/>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=youhanasheriff&theme=violet-punch&border_radius=6.2&background=00000000&border=E296FF&stroke=638E5F&ring=638E5F&currStreakNum=4EC251&sideNums=638E5F&currStreakLabel=638E5F&sideLabels=638E5F&dates=98b238&fire=98b238)](https://git.io/streak-stats)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=youhanasheriff&theme=merko&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ---
 
