@@ -8,7 +8,9 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=638E5F&center=true&width=435&lines=I'm+a+self+taught+developer.;Front-end+mobile+and+web+Engineer.;I+love+exploring+new+things.;I+enjoy+solving+problems.;I+am+keen+on+learning+new+tech.;I+thrive+in+a+collaborative+environment." alt="I'm a self taught Front-End Engineer(mobile and web).I love exploring new things.I enjoy solving problems.I am keen on learning new tech.I thrive in a collaborative environment." />
 </p>
 
+<p align="center">
 ![Programmer](https://user-images.githubusercontent.com/75086598/208244850-5e5fcc65-382b-4237-a154-61b71db1e50e.gif)
+</p>
 
 
 ## 🌐 Connect with me on:
