@@ -53,4 +53,4 @@ Drawink (collaborative whiteboard) · Cubanin & Echify (social commerce) · Rout
 **Frameworks:** Next.js · React · React Native (Expo) · Flutter · Node.js / NestJS / Fastify
 **Cloud/Infra:** AWS · GCP · Firebase · Docker · Kubernetes · Cloudflare · GitHub Actions
 
-🌐 [youhanasheriff.com](https://youhanasheriff.com) · ✍️ [blog.youhanasheriff.com](https://blog.youhanasheriff.com) · 💼 [LinkedIn](https://linkedin.com/in/youhanasheriff)
+🌐 [youhanasheriff.com](https://youhanasheriff.com) · ✍️ [youhanasheriff.com/blog](https://youhanasheriff.com/blog) · 💼 [LinkedIn](https://linkedin.com/in/youhanasheriff)
