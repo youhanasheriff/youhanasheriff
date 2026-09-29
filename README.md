@@ -24,7 +24,6 @@ web, and cloud.
 |---|---|
 | **[SimpleMem](https://github.com/youhanasheriff/SimpleMemJs)** · `@sheriax/simplemem` | Lifelong memory for LLM agents — semantic compression + vector search, ~30× fewer tokens than full-context |
 | **[llm-rag](https://github.com/youhanasheriff/llm-rag)** | RAG over your PDFs: embeddings + vector search + LLM Q&A |
-| **[llm-council](https://github.com/youhanasheriff/llm-council)** | Multi-agent LLM consensus: models answer, peer-review anonymously, a Chairman synthesizes |
 
 **Real-time voice & media AI**
 | Project | What it is |
