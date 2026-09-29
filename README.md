@@ -29,7 +29,6 @@ web, and cloud.
 **Real-time voice & media AI**
 | Project | What it is |
 |---|---|
-| **[ai-voice-call-plugin](https://github.com/youhanasheriff/ai-voice-call-plugin)** | React voice-call widget on the Gemini Live API — accessible, themeable, published to npm |
 | **[video-composer](https://github.com/youhanasheriff/video-composer)** | AI short-form video pipeline: TTS + Whisper + GPT-4 Vision → TikTok / Shorts / Reels |
 | **[audio-transcription](https://github.com/youhanasheriff/audio-transcription)** | Upload/record audio → AI transcription |
 
@@ -39,13 +38,13 @@ web, and cloud.
 - **Talky** — language-learning app with AI content moderation
 
 ### 📦 Published packages
-- **`@sheriax/simplemem`** (npm) — LLM agent memory + vector search
-- **`aws-nuke-all`** (npm) — delete all AWS resources across regions
-- **`flutter_stripe_connect`** (pub.dev) — Stripe Connect for Flutter
-- **`translations_code_gen`** (pub.dev) — type-safe translation codegen for Dart
+- **[`@sheriax/simplemem`](https://github.com/youhanasheriff/SimpleMemJs)** (npm) — LLM agent memory + vector search
+- **[`aws-nuke-all`](https://github.com/youhanasheriff/aws-nuke-all)** (npm) — delete all AWS resources across regions
+- **[`flutter_stripe_connect`](https://github.com/sheriax/flutter_stripe_connect)** (pub.dev) — Stripe Connect for Flutter
+- **[`translations_code_gen`](https://github.com/youhanasheriff/translations_code_gen)** (pub.dev) — type-safe translation codegen for Dart
 
 ### 🧩 Also build (full-stack & mobile)
-Drawink (collaborative whiteboard) · Cubanin & Echify (social commerce) · RouteX (logistics, offline-first GPS) · Nidaa & TNTJ apps — cross-platform with Flutter, React Native (Expo), Next.js.
+[Drawink](https://github.com/sheriax/drawink) (collaborative whiteboard) · Cubanin & Echify (social commerce) · RouteX (logistics, offline-first GPS) · Nidaa & TNTJ apps — cross-platform with Flutter, React Native (Expo), Next.js.
 
 ### 🧰 Tech
 **AI/ML:** LLMs (Claude · Gemini · OpenAI · OpenRouter · local) · RAG · vector search · LoRA/MLX fine-tuning · llama.cpp · ONNX · YOLO · ML Kit
